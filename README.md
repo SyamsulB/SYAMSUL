@@ -14,7 +14,7 @@ Thankyou... Iri Bilang Bos...!!!
 #  KINGFB
 ![IMG_20220806_153322](https://user-images.githubusercontent.com/110714229/183239447-bac4166a-5f7a-4c1e-830c-ae8950b8f074.jpg)
 
-# HASIL MR.FB
+# HASIL SYAMSUL
 ![Screenshot_20220806_140807](https://user-images.githubusercontent.com/110714229/183239378-ac45fb57-9da1-4087-ac39-bc3365caf642.jpg)
 
 ## install on termux
@@ -35,11 +35,11 @@ Thankyou... Iri Bilang Bos...!!!
 
 python3 -m pip install requests bs4
 
- rm -rf SyamsulB
+ rm -rf SYAMSUL
 
  git clone https://github.com/SyamsulB/SyamsulB
 
- cd SyamsulB
+ cd SYAMSUL
  
  python run.py
 ```
@@ -48,9 +48,9 @@ oke sekarang script sudah terinstall
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
 ## Cara Update
 ```php
-rm -rf SyamsulB
+rm -rf SYAMSUL
 cd
-cd SyamsulB
+cd SYAMSUL
 ls
 git pull
 python run.py
